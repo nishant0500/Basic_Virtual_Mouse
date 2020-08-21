@@ -5,7 +5,7 @@
 #### Components Required 
    - Arduino Uno
    - ESP8266
-   - ADXL5 (3 axis accelerometer)
+   - ADXL345 (3 axis accelerometer)
    - jumper wires 
 #### Software Applications
    - Arduino IDE
